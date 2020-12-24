@@ -1,1 +1,3 @@
 str: hello world
+server:
+  port: 3302
